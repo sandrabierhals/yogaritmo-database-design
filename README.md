@@ -15,16 +15,13 @@ Triggers and Store procedures
 Business rules mapping
 
 Project Structure
-yogaritmo/
-│
-├── database/
-│   ├── yogaritmo-esquema-bd.sql
-│   └── tp2_ficheiro3.sql
-│
-├── diagrams/
-│   └── core-business.png
-│
-└── README.md
+yogaritmo
+
+database/yogaritmo-esquema-bd.sql, tp2_ficheiro3.sql
+
+diagrams/core-business.png
+
+README.md
 
 Database Diagram
 
